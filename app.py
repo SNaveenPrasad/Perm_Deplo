@@ -10,3 +10,12 @@ ip=st.text_input('Enter ur msg')
 op=model_nb.predict([ip])
 if st.button('PREDICT'):
   st.title(op[0])
+  
+  
+  
+  
+  
+  
+  
+  
+  
